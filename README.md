@@ -53,7 +53,7 @@ Project ini adalah REST API sederhana untuk mengelola data peternakan ayam yang 
 
 ## Video Presentasi
 
-Link Video: (isi dengan link video kamu)
+Link Video: ((https://youtu.be/X63oOTtJ1g8)
 
 ---
 
