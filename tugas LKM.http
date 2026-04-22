@@ -1,0 +1,6 @@
+@tugas_LKM_HostAddress = http://localhost:5230
+
+GET {{tugas_LKM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
